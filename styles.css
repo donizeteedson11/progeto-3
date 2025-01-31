@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-header {
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.875px;
+    width: 83px;
+    margin-left: 36px;
+    cursor: pointer;
+
+}
+
+.button-header {
+    width: 124px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-left: 36px;
+    cursor: pointer;
+
+}
+
+
+
+img {
+    margin-top: 234px;
+    margin-left: 122px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    margin-left: 72.82px;
+}
+
+h1 {
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+    width: 582px;
+margin-bottom: 41px;
+}
+
+p {
+    color: #4B505A;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 493px;
+    margin-bottom: 55px;
+
+}
+@media screen and (max-width: 588px) {
+header{
+    margin-top: 17px;
+    margin-left: 48px;
+}
+}
+img{
+margin-top: 93%;
+margin-bottom: -161%;
+width: 312px;
+    }
+
+a{
+    display: none;
+}
+.button-header {
+    width: 91px;
+    height: 31px;
+    flex-shrink: 0;   
+margin-left: 285px;
+}
+h1{
+    width: 318px;
+    color: #161A49;
+text-align: center;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.596px;
+}
+p{
+    color: #4B505A;
+text-align: center;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px; 
+letter-spacing: 0.5px;
+width: 303px;
+margin-left: 23px; 
+margin-bottom: 23px;
+}
+
+.button-rodape{
+    color: #6FBF44;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 1px;
+border: none;
+margin-left: 35%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
